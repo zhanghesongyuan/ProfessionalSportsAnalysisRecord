@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 欢迎来到 虎扑体育——专业体育运动分析必备
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/ProfessionalSportsAnalysisRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+“虎扑体育——专业体育运动分析必备”是一款帮助体育运动爱好者分析和提升自身运动技巧和能力的应用。
+当你开始练习一项体育运动时，例如羽毛球，篮球，足球等，你肯定会想要了解这项运动的特点和技巧，并加以练习；你可以给自己制定不同的计划和训练时间，以及设定不同的运动强度，根据运动练习效果和感受，来帮助自己分析自己运动方面的不足，从而更好的提高自身能力，享受体育带来的快乐。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/ProfessionalSportsAnalysisRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
